@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Comodin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Comodin\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=type
+comment1.target=Comodin(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comodin\r\n
+comment2.params=
+comment2.target=void\ removeComodin()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=casilla
+comment3.target=void\ setCasilla(Casilla)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+numComments=5

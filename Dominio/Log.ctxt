@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\n\ \n
+comment1.params=e
+comment1.target=void\ record(java.lang.Exception)
+comment1.text=\n\ Record\ an\ exception\ in\ the\ developer\ log\n\ @param\ e\ an\ exception\ to\ record\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Seguro
+comment0.text=\r\n\ This\ class\ is\ used\ to\ represent\ the\ Casillas\ that\ are\ safe\ in\ the\ game.\r\n\ \r\n\ @author\ (Santiago\ Ospina\ &\ Isabella\ Manrique)\ \r\n\ @version\ (27/04/2022)\r\n
+comment1.params=number
+comment1.target=Seguro(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Seguro\r\n
+comment2.params=inEscalera
+comment2.target=void\ setEscalera(boolean)
+comment3.params=
+comment3.target=boolean\ getEscalera()
+numComments=4
